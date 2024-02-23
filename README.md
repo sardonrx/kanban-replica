@@ -1,5 +1,7 @@
 # Kanban replica Project
 
+![Kanban](https://example.com/logo.png)
+
 This project implements a simple Kanban board, allowing users to manage tasks through different stages of a workflow. The board consists of columns such as To-Do, Active, Review and closed. Users can add, update, and drag-and-drop tasks to reflect their progress.
 
 ## Features
