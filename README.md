@@ -1,8 +1,8 @@
-# Kanban replica Project
+# Kanban replica
 
-![Kanban](https://github.com/susan-chips/kanban-replica/blob/main/Image%202024-02-22%20at%208.01%20PM.jpeg))
+![Kanban](https://github.com/susan-chips/kanban-replica/blob/main/Image%202024-02-22%20at%208.01%20PM.jpeg)
 
-This project implements a simple Kanban board, allowing users to manage tasks through different stages of a workflow. The board consists of columns such as To-Do, Active, Review and closed. Users can add, update, and drag-and-drop tasks to reflect their progress.
+This app implements a simple Kanban board, allowing users to manage tasks through different stages of a workflow. consisting  of columns such as To-Do, Active, Review and closed. Users can add, update, and drag-and-drop tasks to reflect their progress.
 
 ## Features
 
@@ -25,24 +25,6 @@ This project implements a simple Kanban board, allowing users to manage tasks th
    - Click "Add Item" to add a new task.
    - Drag tasks between columns to update their status.
    - Click "Save Item" to confirm and save a new task.
-
-## Local Setup
-
-If you want to run the project locally or make changes:
-
-1. Ensure you have a vscode editor and a web browser installed.
-
-2. Open the project folder in your code editor.
-
-3. Make changes as needed.
-
-4. Open the `index.html` file in a web browser to view the updated Tasks board.
-
-## Technologies Used
-
-- HTML
-- CSS
-- JavaScript
 
 ## Contributing
 
