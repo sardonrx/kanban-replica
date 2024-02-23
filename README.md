@@ -14,7 +14,7 @@ This project implements a simple Kanban board, allowing users to manage tasks th
 1. Clone the repository:
 
     ```bash
-    git clone <repository-url>
+    git clone <(https://github.com/susan-chips/kanban-replica.git)>
     ```
 
 2. Open the `index.html` file in your web browser.
