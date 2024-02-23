@@ -1,4 +1,5 @@
 # Kanban replica
+Live link: https://susan-chips.github.io/kanban-replica/
 
 ![Kanban](https://github.com/susan-chips/kanban-replica/blob/main/Image%202024-02-22%20at%208.01%20PM.jpeg)
 
